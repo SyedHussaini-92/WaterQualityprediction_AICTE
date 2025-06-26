@@ -1,12 +1,12 @@
 # WaterQualityPrediction_AICTE
 
-##Water Quality Prediction - RMS
+## Water Quality Prediction - RMS
 
 This project aims to predict multiple water quality parameters using machine learning techniques, specifically MultiOutputRegressor wrapped around a RandomForestRegressor. It was developed as part of a one-month AICTE Virtual Internship sponsored by Shell in June 2025.
 
 ---
 
-**Overview**
+## Overview
 
 Access to clean water is a critical global concern. Accurate prediction of various water quality metrics can help in early detection of pollution and ensure timely intervention.
 
@@ -19,7 +19,7 @@ In this project, we:
 
 ---
 
-**Technologies Used**
+## Technologies Used
 
 - **Python 3.12**
 - **Pandas, NumPy** – Data handling
@@ -29,7 +29,7 @@ In this project, we:
 
 ---
 
-**Predicted Water Quality Parameters**
+## Predicted Water Quality Parameters
 
 The model predicts multiple water quality parameters such as:
 
@@ -41,7 +41,7 @@ The model predicts multiple water quality parameters such as:
 
 ---
 
-**Model Performance**
+## Model Performance
 
 The model was evaluated using:
 
@@ -51,13 +51,13 @@ Performance was acceptable across all parameters
 
 ---
 
-**Model link:**
+## Model link:
 
 https://drive.google.com/file/d/1qtXvKMbUdwdmLxlb6HD1OkeC0UJNMZ3Q/view?usp=drive_link
 
 ---
 
-**Internship Details**
+## Internship Details
 
 - **Internship Type**: AICTE Virtual Internship - Edunet Foundation
 - **Sponsor**: Shell
