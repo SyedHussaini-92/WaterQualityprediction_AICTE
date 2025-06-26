@@ -7,6 +7,7 @@ This project aims to predict multiple water quality parameters using machine lea
 ---
 
 **Overview**
+
 Access to clean water is a critical global concern. Accurate prediction of various water quality metrics can help in early detection of pollution and ensure timely intervention.
 
 In this project, we:
@@ -16,7 +17,10 @@ In this project, we:
 - Built a pipeline using MultiOutputRegressor with RandomForestRegressor
 - Evaluated the model using appropriate regression metrics
 
+---
+
 **Technologies Used**
+
 - **Python 3.12**
 - **Pandas, NumPy** – Data handling
 - **Scikit-learn** – Machine learning model and evaluation
